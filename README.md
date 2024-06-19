@@ -1,6 +1,6 @@
 # SinglePhase_pqLoadModel
 This folder contains the working models of proposed dynamic load model based on "instantaneous p-q theory". 
-1) SimpleTestFeeder_PQload.slx is a simple model, where the proposed p-q theory-based load model was tested using a source, line and a load
+1) SimpleTestFeeder_PQload.slx is a simple model, where the proposed p-q theory-based load model was tested using a source, line and a p-q load
 
 The proposed load model was tested using standard IEEE34 node test feeder. The loads in the test feeder are represented using proposed p-q theory-based
 load model and the corresponding file is "IEEE34_PQload.slx". To execute this file,one has to have the below files in the same working folder- 
